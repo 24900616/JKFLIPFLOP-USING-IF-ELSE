@@ -74,7 +74,7 @@ module jk_ff (j, k, clk, rst, q);
 **RTL LOGIC FOR FLIPFLOPS**
 ![image](https://github.com/user-attachments/assets/8da29142-5bb9-4ad4-9cdd-aaff23775c1c)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 ![image](https://github.com/user-attachments/assets/ffaa761a-a3a9-4ff2-b9a3-92cdd97a3eac)
 
 **RESULTS**
